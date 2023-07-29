@@ -6,24 +6,10 @@
     box-sizing: border-box;
 }
 
-/* :root{
-    --primary-text-color: #183b56;
-    --secondary-text-colot: #577592;
-    --accent-color: #2294ed;
-    --accent-color-dark: #1d69a3;
-    --padding-inline-section: 20px;
-} */
-
 body {
     font-family: 'Poppins' , 'sans-serif';
     color : #183b56;
 }
-
-/* p{ 
-    font-family: 'Roboto', 'sans-serif';
-    color: #577592;
-}  */
-
 
 .container{
     max-width: 1100px;
@@ -433,4 +419,7 @@ ul{
 .icons{
    gap: 15px;
    padding-left: 60px;
+}
+.f_line{
+    font-size: 1.2rem;
 }
